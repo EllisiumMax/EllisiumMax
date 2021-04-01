@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @EllisiumMax
-- 👀 I’m interested in Java Script Front End develompent
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Front End develompent
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me khaiuk.maksym@gmail.com
 
-<!---
-EllisiumMax/EllisiumMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My projects: 
+**1.  Social Network Build with React**  
+**source:** https://github.com/EllisiumMax/react-social-network  
+**deployed:** www.ellisium.com.ua/toucan  
+
+**2. Online shop build with JavaScript without any libraries **  
+**source:** https://github.com/EllisiumMax/Hillel/tree/master/project_tornado  
+**deployed: **www.ellisium.com.ua/project_tornado  
+
