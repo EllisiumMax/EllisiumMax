@@ -11,5 +11,5 @@
 
 **2. Online shop build with JavaScript without any libraries**  
 **source:** https://github.com/EllisiumMax/Hillel/tree/master/project_tornado  
-**deployed:** ww.ellisium.com.ua/project_tornado  
+**deployed:** www.ellisium.com.ua/project_tornado  
 
