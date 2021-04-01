@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @EllisiumMax
+- 👋 Hi, I’m Maksym Khaiuk
 - 👀 I’m interested in Front End develompent
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me khaiuk.maksym@gmail.com
 
-My projects: 
-  
+### My projects: 
+---
 **1.  Social Network Build with React**  
 **source:** https://github.com/EllisiumMax/react-social-network  
 **deployed:** www.ellisium.com.ua/toucan  
