@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End develompent
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me khaiuk.maksym@gmail.com
-- 
+
 ---
 ### My projects: 
 
