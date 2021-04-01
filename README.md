@@ -1,3 +1,4 @@
+### About me: 
 - 👋 Hi, I’m Maksym Khaiuk
 - 👀 I’m interested in Front End develompent
 - 🌱 I’m currently learning TypeScript
