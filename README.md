@@ -10,7 +10,7 @@
 **source:** https://github.com/EllisiumMax/react-social-network  
 **deployed:** www.ellisium.com.ua/toucan  
 
-**2. Online shop build with JavaScript without any libraries**  
+**2. Online shop build with Vanilla JavaScript**  
 **source:** https://github.com/EllisiumMax/Hillel/tree/master/project_tornado  
 **deployed:** www.ellisium.com.ua/project_tornado  
 
