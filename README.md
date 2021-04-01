@@ -15,6 +15,12 @@
 **source:** https://github.com/EllisiumMax/Hillel/tree/master/project_tornado  
 **deployed:** www.ellisium.com.ua/project_tornado  
 
+**3. Star Wars Wiki build with Vanilla JavaScript**  
+**source:** https://github.com/EllisiumMax/Hillel/tree/master/homework/17_lesson  
+**deployed:** www.ellisium.com.ua/star_wars_wiki  
+
+
+
 ---
 
 ### Education: 
